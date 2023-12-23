@@ -90,4 +90,3 @@ This project is a result of academic work completed as part of the Computer Scie
 
 All rights reserved. Unauthorized use, distribution, or reproduction of this work without express written permission from the author is strictly prohibited.
 
-For inquiries, please contact [Your Email Address].
